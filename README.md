@@ -1,6 +1,6 @@
-<![banner](https://github.com/EliasDev-Flutter/EliasDev-Flutter/assets/152622524/305fb8d4-970c-4fdd-9ea2-d51291cab7fe)
+![banner](https://github.com/EliasDev-Flutter/EliasDev-Flutter/assets/152622524/305fb8d4-970c-4fdd-9ea2-d51291cab7fe)
 
-h3 align="center">A passionate Flutter developer from Brazil</h3>
+<h3 align="center">A passionate Flutter developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasdev-flutter&label=Profile%20views&color=0e75b6&style=flat" alt="eliasdev-flutter" /> </p>
 
